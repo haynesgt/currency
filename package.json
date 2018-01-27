@@ -18,6 +18,7 @@
   "homepage": "https://github.com/haynesgt/currency#readme",
   "dependencies": {
     "@types/node": "^9.4.0",
-    "jsonschema": "^1.2.2"
+    "jsonschema": "^1.2.2",
+    "typescript": "^2.6.2"
   }
 }

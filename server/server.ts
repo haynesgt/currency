@@ -9,4 +9,3 @@ class AccountService {
     public createAccount(key) { }
     public updateAccount(account) { }
 }
-
