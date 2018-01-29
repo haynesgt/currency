@@ -1,4 +1,5 @@
-BASEDIR=$(dirname "$0")
+BASEDIR=$(dirname $(readlink -f $BASH_SOURCE))
+#$(dirname $(readlink -f "$0"))
 
 echo "BASEDIR=$BASEDIR"
 

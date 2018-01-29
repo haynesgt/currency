@@ -1,3 +1,5 @@
+import * as http from "http";
+
 class TransactionService {
     constructor() { }
     public createNullTransaction() { }
